@@ -1,5 +1,4 @@
-langauge :go
-go: 1.9
-
-
-script: golib_test.go  
+langauge: go
+go:
+  -1.9
+script: golib_test.go
