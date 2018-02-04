@@ -1,4 +1,4 @@
-package main
+package mypack
 
 func cnum(s string) int {
 	var x int
